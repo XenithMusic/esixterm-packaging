@@ -1,5 +1,5 @@
 pkgname=esixterm-git
-pkgver=r2.gb82cb4a
+pkgver=r4.ge482016
 pkgrel=1
 pkgdesc="An e621 viewer for the terminal"
 arch=('any')
