@@ -1,0 +1,19 @@
+pkgbase = esixterm
+	pkgdesc = An e621 viewer for the terminal
+	pkgver = 0.3.0
+	pkgrel = 1
+	url = https://github.com/XenithMusic/esixterm
+	arch = any
+	license = GPLv3
+	depends = python
+	depends = python-platformdirs
+	depends = python-requests
+	depends = python-webcolors
+	depends = python-term-image
+	depends = python-wcwidth
+	provides = esixterm
+	conflicts = esixterm-git
+	source = esixterm-0.3.0.tar.gz::https://github.com/XenithMusic/esixterm/archive/refs/tags/0.3.0.tar.gz
+	sha256sums = e027f00bf86c419d07314708c0542ce5e1c293dacdc665fc03854bd2375b9a20
+
+pkgname = esixterm
