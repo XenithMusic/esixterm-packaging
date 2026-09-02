@@ -1,6 +1,6 @@
 pkgbase = esixterm-git
 	pkgdesc = An e621 viewer for the terminal
-	pkgver = r4.ge482016
+	pkgver = r40.g02d427c
 	pkgrel = 1
 	url = https://github.com/XenithMusic/esixterm
 	arch = any
@@ -13,7 +13,7 @@ pkgbase = esixterm-git
 	depends = python-wcwidth
 	provides = esixterm
 	conflicts = esixterm
-	source = esixterm-git.tar.gz::https://github.com/XenithMusic/esixterm/archive/refs/heads/master.tar.gz
-	sha256sums = e60406f1cbbf6b109f92e2863f1437e1ec09365d9c92ddd25978a0f0f45212bb
+	source = esixterm-git::git+https://github.com/XenithMusic/esixterm.git
+	sha256sums = SKIP
 
 pkgname = esixterm-git
