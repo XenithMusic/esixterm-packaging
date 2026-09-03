@@ -1,5 +1,5 @@
 pkgname=esixterm
-pkgver=0.3.3
+pkgver=0.3.4
 pkgrel=1
 pkgdesc="An e621 viewer for the terminal"
 arch=('any')
@@ -7,7 +7,7 @@ url="https://github.com/XenithMusic/esixterm"
 license=('GPLv3')
 depends=('python' 'python-platformdirs' 'python-requests' 'python-webcolors' 'python-term-image' 'python-wcwidth')
 source=("$pkgname-$pkgver.tar.gz::https://github.com/XenithMusic/esixterm/archive/refs/tags/$pkgver.tar.gz")
-sha256sums=('c376e065303bc81d1e70909b8ac704cf6e5efd41fe5661178be9084c283730c9')
+sha256sums=('548e0ee8b0409e9eabd1b1bbcc73d7d0acd3e898d895eee853d0fea094a12478')
 conflicts=('esixterm-git')
 provides=('esixterm')
 
