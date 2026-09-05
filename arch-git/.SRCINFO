@@ -1,6 +1,6 @@
 pkgbase = esixterm-git
 	pkgdesc = An e621 viewer for the terminal
-	pkgver = r50.g0150048
+	pkgver = r51.g5bddb11
 	pkgrel = 1
 	url = https://github.com/XenithMusic/esixterm
 	arch = any
